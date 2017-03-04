@@ -8,7 +8,7 @@ header {
   z-index:99;
 }
 
-h1.headline {
+header h1.headline {
     text-shadow: none;
     color: white;
     font-size: 24px;
@@ -16,42 +16,49 @@ h1.headline {
     margin-bottom: 0;
 }
 
-.vertAlign {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    -webkit-transform: translateY(-50%);
-    -ms-transform: translateY(-50%);
-}
-
-.body-container h1.headline {
+.relate-blog h1.headline {
     text-shadow: none;
     color: #2e2e2e;
     font-size: 50px;
     line-height: 50px;
 }
 
-.body-container h1.sub-headline {
+.relate-blog h1.sub-headline {
     margin: 12px auto;
 }
 
-.body-container p {
+.relate-blog p {
     margin: 38px auto;
 }
 
+.relate-blog button {
+    background-color: #2e2e2e;
+    color: white;
+    width: 200px;
+    height: 50px;
+    margin: 8px auto;
+}
+
+.relate-blog button.stay-informed {
+    background-color: white;
+    color: #2e2e2e;
+    width: 200px;
+    height: 50px;
+    border: 2px solid #2e2e2e;
+}
+
 .bg-image {
-    background-image: url('../assets/line.png');
-    width: 100%;
-    height: 33vh;
-    background-size: contain;
-    background-repeat: no-repeat;
+      background-image: url(../assets/line.png);
+      width: 100%;
+      height: 33vh;
+      background-size: contain;
+      background-repeat: no-repeat;
 }
 
 .user-stream-wrap {
-    height: 467px;
+    padding: 64px 0;
     box-shadow: 0 -5px 5px -5px #333;
 }
-
 
 .user-stream {
     background-image: url('../assets/stream.png');
@@ -60,39 +67,15 @@ h1.headline {
     height: 200px;
 }
 
-.full-height {
-  height: 100vh;
-  padding: 120px 0 0;
-}
 
 img.scroll {
-  position: absolute;
-left: 0;
-top: 94vh;
-right: 0;
-margin: auto;
+    position: absolute;
+    left: 0;
+    top: 94vh;
+    right: 0;
+    margin: auto;
 }
 
-.one-third {
-  height: 66vh;
-  padding: 130px 0 0;
-}
-
-.body-container button {
-    background-color: #2e2e2e;
-    color: white;
-    width: 200px;
-    height: 50px;
-    margin: 8px auto;
-}
-
-.body-container button.stay-informed {
-    background-color: white;
-    color: #2e2e2e;
-    width: 200px;
-    height: 50px;
-    border: 2px solid #2e2e2e;
-}
 footer{
   background: none !important;
   height: 100px;
@@ -113,7 +96,6 @@ footer{
 
 .fill-height-or-more > div {
   flex: 1;
-
   display: flex;
   justify-content: center;
   flex-direction: column;
