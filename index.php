@@ -76,7 +76,7 @@
 
 </div>
 
-<div class="relate-blog-form">
+<!-- <div class="relate-blog-form">
 
   <script type="text/javascript">var submitted=false;</script>
   <iframe name="hidden_iframe" id="hidden_iframe"
@@ -126,4 +126,4 @@
   			</ol>
   		</form>
 
-    </div>
+    </div> -->
