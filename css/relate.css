@@ -40,7 +40,7 @@ h1.headline {
 }
 
 .bg-image {
-    background-image: url('file:///Users/Bobby/Desktop/hinge-relate/assets/line.png');
+    background-image: url('assets/line.png');
     width: 100%;
     height: 33vh;
     background-size: contain;
@@ -54,7 +54,7 @@ h1.headline {
 
 
 .user-stream {
-    background-image: url('file:///Users/Bobby/Desktop/hinge-relate/assets/stream.png');
+    background-image: url('assets/stream.png');
     background-size: contain;
     background-repeat: no-repeat;
     height: 200px;
