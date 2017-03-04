@@ -1,0 +1,129 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+
+<title> HINGE </title>
+<link rel="shortcut icon" href="/favicon.png" type="HINGE"/>
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1">
+
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="css/slick.css">
+<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="css/fonts.css">
+<link rel="stylesheet" href="css/relate.css">
+<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+<script src="/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+
+</head>
+
+<body>
+
+
+<header>
+  <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+    <h1 class="headline"> Relate </h1>
+  </div>
+
+  <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+    <img src="assets/logo.png" width="77" style="float:right;" />
+  </div>
+</header>
+
+<div class="relate-blog">
+  <section class="fill-height-or-more">
+
+    <div>
+      <h1 class="headline"> Relate  </h1>
+      <h1 class="sub-headline"> powered by hinge </h1>
+      <p class="col-lg-8 col-md-8 col-sm-8 col-xs-8" style="float:none;"> Introducing Relate, the largest collection of data from couples who met online. An in-depth guide about what makes a relationship work, what doesn’t, and everything else in-between. </p>
+      <a href="https://goo.gl/forms/oqukmVxgt3VzZtzw1"><button> join study </button></a>
+      <a href="https://goo.gl/forms/oqukmVxgt3VzZtzw1"><button class="stay-informed"> stay informed </button></a>
+    </div>
+
+    <div>
+      <div class="bg-image two-thirds" style="padding:0;"></div>
+      <img class="scroll" src="assets/scroll.png" />
+    </div>
+
+  </section>
+
+  <div class="user-stream-wrap col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0;">
+    <div class="user-stream col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0;">
+  </div>
+
+  <footer class="col-lg-12 col-md-12 col-sm-12 col-sm-12" style="margin-top:42px;">
+
+
+      <div class="social-container">
+        <div class="wow fadeInUp">
+          <a target="_blank" href="https://www.facebook.com/hinge"><img src="assets/fb-icon.png" /></a>
+        </div>
+        <div class="wow fadeInUp">
+          <a target="_blank"  href="https://www.instagram.com/hingeapp"><img src="assets/ig-icon.png" /></a>
+        </div>
+        <div class="wow fadeInUp">
+          <a target="_blank"  href="https://twitter.com/HingeApp"><img src="assets/twitter-icon.png" /><a/>
+        </div>
+      </div>
+
+
+    <h4 class="wow fadeInUp"> © 2016 Hinge Inc. All Rights Reserved. </h4>
+
+  </footer>
+
+</div>
+
+<div class="relate-blog-form">
+
+  <script type="text/javascript">var submitted=false;</script>
+  <iframe name="hidden_iframe" id="hidden_iframe"
+  style="display:none;" onload="if(submitted)
+  $('.submitted').fadeIn();">"></iframe>
+  <form action="https://docs.google.com/forms/d/e/1FAIpQLSftuNqbV6ivOT8z5AF0a4Z0oF3aUeZtCOjomolnBxgTDsY-3A/formResponse" method="post"
+  target="hidden_iframe" onsubmit="submitted=true;">
+
+  <div class="ss-form-question errorbox-good col-lg-6 col-md-6 col-sm-6 col-xs-12" role="listitem">
+  					<div dir="auto" class="ss-item ss-item-required ss-text">
+  						<div class="ss-form-entry">
+  							<label class="ss-q-item-label" for="entry_175667943">
+  								<div class="ss-q-title">Email Address
+  									<label class="required"  for="itemView.getDomIdToLabel()" aria-label="(Required field)">
+  										<span class="ss-required-asterisk" aria-hidden="true">*</span>
+  									</label>
+  								</div>
+  								<div class="ss-q-help ss-secondary-text" dir="auto"></div>
+  							</label>
+
+  							<input type="text" name="entry.175667943" value="" class="ss-q-short" id="entry_175667943" dir="auto" aria-label="Email Address  " aria-required="true" required="" title="">
+  							<div class="error-message" id="769096735_errorMessage"></div>
+  						</div>
+  					</div>
+  				</div>
+
+
+  <input type="hidden" name="draftResponse" value="[,,&quot;-2471623338094755183&quot;]">
+  				<input type="hidden" name="pageHistory" value="0">
+  				<input type="hidden" name="fbzx" value="-2471623338094755183">
+  				<div class="ss-send-email-receipt" style="margin-bottom: 4px;" dir="ltr">
+  					<label for="emailReceipt" style="display:inline;"></label>
+  				</div>
+  				<div class="ss-item ss-navigate">
+  					<table id="navigation-table">
+  						<tbody>
+  							<tr>
+  								<td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
+  									<input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action ">
+  								</td>
+  							</tr>
+  						</tbody>
+  					</table>
+  				</div>
+
+  				<p class="submitted" style="margin: 0 auto 50px;"> Thanks for reaching out! We’ll get back to you shortly! </p>
+  			</ol>
+  		</form>
+
+    </div>
